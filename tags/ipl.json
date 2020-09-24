@@ -110,8 +110,62 @@
          "created_by":1,
          "updated_by":1,
          "created_at":"2020-09-23T20:44:56.170Z",
-         "updated_at":"2020-09-23T20:44:56.188Z",
-         "featuredImage":null
+         "updated_at":"2020-09-24T02:09:16.099Z",
+         "featuredImage":{
+            "id":4,
+            "name":"Mumbai-Indians-Cover.png",
+            "alternativeText":"",
+            "caption":"",
+            "width":851,
+            "height":315,
+            "formats":{
+               "thumbnail":{
+                  "name":"thumbnail_Mumbai-Indians-Cover.png",
+                  "hash":"thumbnail_Mumbai_Indians_Cover_f3c8f20e07",
+                  "ext":".png",
+                  "mime":"image/png",
+                  "width":245,
+                  "height":91,
+                  "size":58.74,
+                  "path":null,
+                  "url":"/uploads/thumbnail_Mumbai_Indians_Cover_f3c8f20e07.png"
+               },
+               "medium":{
+                  "name":"medium_Mumbai-Indians-Cover.png",
+                  "hash":"medium_Mumbai_Indians_Cover_f3c8f20e07",
+                  "ext":".png",
+                  "mime":"image/png",
+                  "width":750,
+                  "height":278,
+                  "size":588.17,
+                  "path":null,
+                  "url":"/uploads/medium_Mumbai_Indians_Cover_f3c8f20e07.png"
+               },
+               "small":{
+                  "name":"small_Mumbai-Indians-Cover.png",
+                  "hash":"small_Mumbai_Indians_Cover_f3c8f20e07",
+                  "ext":".png",
+                  "mime":"image/png",
+                  "width":500,
+                  "height":185,
+                  "size":256.63,
+                  "path":null,
+                  "url":"/uploads/small_Mumbai_Indians_Cover_f3c8f20e07.png"
+               }
+            },
+            "hash":"Mumbai_Indians_Cover_f3c8f20e07",
+            "ext":".png",
+            "mime":"image/png",
+            "size":748.42,
+            "url":"/uploads/Mumbai_Indians_Cover_f3c8f20e07.png",
+            "previewUrl":null,
+            "provider":"local",
+            "provider_metadata":null,
+            "created_by":1,
+            "updated_by":1,
+            "created_at":"2020-09-24T02:09:11.651Z",
+            "updated_at":"2020-09-24T02:09:11.697Z"
+         }
       }
    ]
 }
